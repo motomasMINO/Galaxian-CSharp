@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\galaxian\\galaxian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|solutionrelative:galaxian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\galaxian\\galaxian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|solutionrelative:galaxian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\galaxian\\galaxian\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|solutionrelative:galaxian\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\galaxian\\galaxian\\loopstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|solutionrelative:galaxian\\loopstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\galaxian\\galaxian\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|solutionrelative:galaxian\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\galaxian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|solutionrelative:galaxian\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\galaxian\\galaxian\\galaxian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5F3C1E1-527D-42C6-9ECD-776CE83243F5}|Galaxian\\Galaxian.csproj|solutionrelative:galaxian\\galaxian.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Galaxian.csproj",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Galaxian.csproj",
+              "RelativeDocumentMoniker": "Galaxian\\Galaxian.csproj",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Galaxian.csproj",
+              "RelativeToolTip": "Galaxian\\Galaxian.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T18:05:20.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Form1.cs",
+              "RelativeDocumentMoniker": "Galaxian\\Form1.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Form1.cs [Design]",
+              "RelativeToolTip": "Galaxian\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:04:34.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Program.cs",
+              "RelativeDocumentMoniker": "Galaxian\\Program.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Program.cs",
+              "RelativeToolTip": "Galaxian\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:04:25.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Form1.cs",
+              "RelativeDocumentMoniker": "Galaxian\\Form1.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Form1.cs",
+              "RelativeToolTip": "Galaxian\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:03:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Sound.cs",
+              "RelativeDocumentMoniker": "Galaxian\\Sound.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\Sound.cs",
+              "RelativeToolTip": "Galaxian\\Sound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:59:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoopStream.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\LoopStream.cs",
+              "RelativeDocumentMoniker": "Galaxian\\LoopStream.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\LoopStream.cs",
+              "RelativeToolTip": "Galaxian\\LoopStream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:10:31.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoundEffect.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\SoundEffect.cs",
+              "RelativeDocumentMoniker": "Galaxian\\SoundEffect.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\Galaxian\\Galaxian\\SoundEffect.cs",
+              "RelativeToolTip": "Galaxian\\SoundEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:14:19.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
