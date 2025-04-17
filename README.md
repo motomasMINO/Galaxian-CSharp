@@ -58,3 +58,4 @@ sfcx.play(); // 一度だけ再生
 - Email: yu120615@gmail.com
 
   バグ報告や改善点・機能追加の提案はPull RequestまたはIssueで受け付けています!
+  
