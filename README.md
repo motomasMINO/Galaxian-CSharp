@@ -47,7 +47,9 @@ sfcx.play(); // 一度だけ再生
    
    ターミナルまたはコマンドプロンプトで以下を実行:
    ```sh
-   dotnet run --project Galaxian
+   cd Galaxian
+
+   dotnet run
    ```
 
 ## 📜 ライセンス
