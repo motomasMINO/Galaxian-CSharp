@@ -47,6 +47,10 @@ sfcx.play(); // 一度だけ再生
    
    ターミナルまたはコマンドプロンプトで以下を実行:
    ```sh
+   git clone https://github.com/motomasMINO/Galaxian-CSharp.git
+
+   cd Galaxian-CSharp
+
    cd Galaxian
 
    dotnet run
